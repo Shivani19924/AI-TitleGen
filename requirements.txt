@@ -1,0 +1,7 @@
+transformers==4.45.1
+torch
+fastapi
+uvicorn
+sentencepiece
+nltk
+pillow

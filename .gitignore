@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Model files and cache
+*.bin
+*.pt
+*.ckpt
+*.safetensors
+*.h5
+*.pkl
+*.joblib
+*.model
+*.json
+*.txt
+
+# Hugging Face cache
+~/.cache/huggingface/
+C:/Users/*/.cache/huggingface/
+
+# VSCode
+.vscode/
+venv/
+
